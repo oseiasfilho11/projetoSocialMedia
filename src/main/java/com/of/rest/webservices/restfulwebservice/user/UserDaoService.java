@@ -20,7 +20,7 @@ public class UserDaoService {
 	}
 
 	public List<User> findAll() {
-		return this.users;
+		return users;
 	}
 
 	public User save(User user) {
