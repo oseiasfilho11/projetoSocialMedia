@@ -1,4 +1,4 @@
-package com.of.rest.webservices.restfulwebservice;
+package com.of.rest.webservices.restfulwebservice.helloWord;
 
 public class HelloWordBeand {
 
