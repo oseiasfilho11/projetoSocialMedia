@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "loggin.level.org.springframerwok",
+    "type": "java.lang.String",
+    "description": "A description for 'loggin.level.org.springframerwok'"
+  },
+  {
+    "name": "login.level.web",
+    "type": "java.lang.String",
+    "description": "A description for 'login.level.web'"
+  }
+]}
